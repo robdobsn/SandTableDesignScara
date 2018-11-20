@@ -1,0 +1,163 @@
+[DeskProto Project]
+Version = 6.1
+Edition = Entry
+WizardType = none
+CADFile = <none>
+CADFileUnit = 0
+FlipNormals = 0
+SkipBackfaces = 0
+NumberOfParts = 1
+ActivePartIndex = 0
+SaveToolPaths = 0
+
+[Part0]
+Name = part
+Machine = ISO plain G-codes - mm, with rotation axis
+OperationsType = 0
+ScaleX = 1.000000
+ScaleY = 1.000000
+ScaleZ = 1.000000
+MirrorX = 0
+MirrorY = 0
+MirrorZ = 0
+RotationX = 0.000000
+RotationY = 0.000000
+RotationZ = 0.000000
+SegmentMethod = 0
+SegmentMinimumX = 0.000000
+SegmentMinimumY = 0.000000
+SegmentMinimumZ = 0.000000
+SegmentMaximumX = 0.000000
+SegmentMaximumY = 0.000000
+SegmentMaximumZ = 0.000000
+WindowLayout = 0
+NumberOfOperations = 1
+
+[Part0 Operation0]
+Name = 2D operation
+Cutter = Ball nose, radius 3 = diameter 6 mm
+Visible = 1
+Feedrate = 1000.000000
+Spindlespeed = 20000
+UseRoughingLayers = 0
+RoughingLayerMethod = 0
+RoughingLayer = 25.000000
+UseRoughingRamping = 0
+RoughingRampingAngle = 5.000000
+OperationType = 0
+2DGeometryFileName = M:\RobDev\Projects\BotsCNC\SandTable\SandTableDesignScara\PrintAndCut\CNC6mmMDFVeneerSmallerOuter6.3mmTool.dxf
+UseZValues = 0
+RoughingRiseFreeMovement = 0
+zLevelPenUp = 35.000000
+zLevelPenDown = -6.500000
+PlungeRate = 100
+RelativeToPart = 0
+ProjectionPrecision = 1.000000
+ScaleX = 1.000000
+ScaleY = 1.000000
+MirrorX = 0
+MirrorY = 0
+TranslateX = 500.000000
+TranslateY = -1000.000000
+zRotation = 0.000000
+
+[Part0 View0]
+Name = 
+ShowName = 1
+ShowOrientator = 1
+ShowOriginOrientator = 1
+ShowGeometryWireframe = 0
+RemoveHiddenLines = 0
+ShowGeometryRendered = 1
+ShowDownwardFaces = 0
+ShowGeometryPoints = 0
+ShowSegment = 1
+ShowSegmentTranslucent = 0
+ShowWorkingArea = 0
+RotationX = -75.000000
+RotationY = 30.000000
+RotationZ = 7.600000
+PanningX = 0.000000
+PanningY = 0.000000
+Zooming = 100.000000
+
+[Part0 View0 Operation0]
+Show2DContours = 1
+ShowPoints = 0
+
+[Part0 View1]
+Name = 
+ShowName = 1
+ShowOrientator = 1
+ShowOriginOrientator = 1
+ShowGeometryWireframe = 0
+RemoveHiddenLines = 0
+ShowGeometryRendered = 1
+ShowDownwardFaces = 0
+ShowGeometryPoints = 0
+ShowSegment = 1
+ShowSegmentTranslucent = 0
+ShowWorkingArea = 0
+RotationX = -75.000000
+RotationY = 30.000000
+RotationZ = 7.600000
+PanningX = 0.000000
+PanningY = 0.000000
+Zooming = 100.000000
+
+[Part0 View1 Operation0]
+Show2DContours = 1
+ShowPoints = 0
+
+[Part0 View2]
+Name = 
+ShowName = 1
+ShowOrientator = 1
+ShowOriginOrientator = 1
+ShowGeometryWireframe = 0
+RemoveHiddenLines = 0
+ShowGeometryRendered = 1
+ShowDownwardFaces = 0
+ShowGeometryPoints = 0
+ShowSegment = 1
+ShowSegmentTranslucent = 0
+ShowWorkingArea = 0
+RotationX = -75.000000
+RotationY = 30.000000
+RotationZ = 7.600000
+PanningX = 0.000000
+PanningY = 0.000000
+Zooming = 100.000000
+
+[Part0 View2 Operation0]
+Show2DContours = 1
+ShowPoints = 0
+
+[Part0 View3]
+Name = 
+ShowName = 1
+ShowOrientator = 1
+ShowOriginOrientator = 1
+ShowGeometryWireframe = 0
+RemoveHiddenLines = 0
+ShowGeometryRendered = 1
+ShowDownwardFaces = 0
+ShowGeometryPoints = 0
+ShowSegment = 1
+ShowSegmentTranslucent = 0
+ShowWorkingArea = 0
+RotationX = -75.000000
+RotationY = 30.000000
+RotationZ = 7.600000
+PanningX = 0.000000
+PanningY = 0.000000
+Zooming = 100.000000
+
+[Part0 View3 Operation0]
+Show2DContours = 1
+ShowPoints = 0
+
+[NCFiles]
+NCFileCount = 1
+NCFile0 = M:\RobDev\Projects\BotsCNC\SandTable\SandTableDesignScara\PrintAndCut\CNC6mmMDFVeneerSmallerOuter6.3mmTool.iso
+NCFile0Properties = Part0,Operation0,#1,0,1520594249
